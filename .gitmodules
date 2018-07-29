@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rainede/WDI_PROJECT_4_API
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rainede/WDI_PROJECT_4_Client
